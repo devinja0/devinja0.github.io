@@ -1,0 +1,20 @@
+
+
+img {
+  width:400px; 
+}
+
+
+
+li:hover{
+  font-size: 200%;
+  color: green
+}
+  
+p:hover{
+  font-size: 200%;
+}
+
+img:hover{
+  width-size: 200%;
+}
